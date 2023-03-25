@@ -769,11 +769,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 2a329982-297b-47e3-9c85-ae405b32ddc8
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: pm
+  organizationId: team-paco-marto
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
