@@ -445,8 +445,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1024202187}
   - component: {fileID: 1024202188}
-  m_Layer: 0
-  m_Name: Mouth
+  m_Layer: 7
+  m_Name: Circle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -614,7 +614,7 @@ GameObject:
   - component: {fileID: 1308286606}
   - component: {fileID: 1308286605}
   m_Layer: 6
-  m_Name: TempWall
+  m_Name: Square (1)
   m_TagString: Floor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -697,8 +697,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1310482673}
   - component: {fileID: 1310482674}
-  m_Layer: 0
-  m_Name: RightEye
+  m_Layer: 7
+  m_Name: Circle (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -781,8 +781,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1615839445}
   - component: {fileID: 1615839446}
-  m_Layer: 0
-  m_Name: LeftEye
+  m_Layer: 7
+  m_Name: Circle (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -950,7 +950,7 @@ GameObject:
   - component: {fileID: 1930707655}
   - component: {fileID: 1930707654}
   m_Layer: 6
-  m_Name: TempWall
+  m_Name: Square
   m_TagString: Floor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
