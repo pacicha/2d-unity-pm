@@ -23,8 +23,8 @@ public class move : MonoBehaviour
     }
     void flip()
     {
-        if (moved.x < 0.01f) transform.localScale = new Vector3(-1, 1, 1);
-        if (moved.x > 0f) transform.localScale = new Vector3(1, 1, 1);
+        if (moved.x < -0.01f) transform.localScale = new Vector3(-1, 1, 1);
+        if (moved.x > 0.01f) transform.localScale = new Vector3(1, 1, 1);
 
     }
 }
