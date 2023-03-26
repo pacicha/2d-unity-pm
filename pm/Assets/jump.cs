@@ -6,16 +6,13 @@ public class jump : MonoBehaviour
 {
     Rigidbody2D rb;
     [SerializeField] int jumpPower;
-    [SerializeField] float fallMultiplier;
     public Transform groundCheck;
     public LayerMask groundLayer;
     bool isGrounded;
-    Vector2 vecGravity;
-
     void Start()
     {
-        vecGravity = new Vector2(0, -Physics2D.gravity.y);
         rb = GetComponent<Rigidbody2D>();
+
     }
 
     // Update is called once per frame
@@ -25,10 +22,6 @@ public class jump : MonoBehaviour
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
             rb.velocity = new Vector2(rb.velocity.x, jumpPower);
-        }
-        if (rb.velocity.y < 0)
-        {
-            rb.velocity -= vecGravity * fallMultiplier * Time.deltaTime;
         }
     }
 }
