@@ -5,9 +5,14 @@ using UnityEngine;
 public class movement : MonoBehaviour
 {
     public float speed;
+    public float jump;
+
+    private float Move;
+
     private Rigidbody2D rb2d;
-    public bool grounded = true;
-    public float jumpPower;
+
+    public bool isJumping;
+
 
     void Start()
     {
@@ -16,16 +21,29 @@ public class movement : MonoBehaviour
 
     void Update()
     {
-        float moveHorizontal = Input.GetAxis("Horizontal");
-        float moveVertical = Input.GetAxis("Vertical");
+        Move = Input.GetAxis("Horizontal");
 
+        rb2d.velocity = new Vector2(speed * Move, rb2d.velocity.y);
 
-        rb2d.velocity = new Vector2(moveHorizontal * speed, moveVertical * 0f);
-
-        if (Input.GetKeyDown("space") || Input.GetKeyDown("w") && grounded == true)
+        if (Input.GetButtonDown("Jump") && isJumping == false)
         {
-            rb2d.AddForce(transform.up * jumpPower);
-            grounded = false;
+            rb2d.AddForce(new Vector2(rb2d.velocity.x, jump));
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if(other.gameObject.CompareTag("Floor"))
+        {
+            isJumping = false;
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Floor"))
+        {
+            isJumping = true;
         }
     }
 }
