@@ -4,8 +4,9 @@ using UnityEngine;
 
 public class move : MonoBehaviour
 {
-    Vector2 movee;
-    public int speed;
+    private float movee;
+    public float speed;
+    public Rigidbody2D rb;
 
     void Start()
     {
@@ -13,16 +14,15 @@ public class move : MonoBehaviour
     }
     void Update()
     {
-        movee = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
+        movee = Input.GetAxis("Horizontal");
 
-        transform.Translate(movee * speed * Time.deltaTime,Space.World);
+        rb.velocity = new Vector2(speed * movee, rb.velocity.y);
 
         flip();
     }
     void flip()
     {
-        if (movee.x < -0.01f) transform.localScale = new Vector3(-1, 1, 1);
-        if (movee.x > 0.01f) transform.localScale = new Vector3(1, 1, 1);
-
+        if (rb.velocity.x < -0.01f) transform.localScale = new Vector3(-1, 1, 1);
+        if (rb.velocity.x > 0.01f) transform.localScale = new Vector3(1, 1, 1);
     }
 }
