@@ -11,8 +11,6 @@ public class move : MonoBehaviour
     {
 
     }
-
-    // Update is called once per frame
     void Update()
     {
         moved = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
