@@ -43,7 +43,8 @@ public class Movement : MonoBehaviour
         {
             rb.velocity -= vecGravity * fallMultiplier * Time.deltaTime;
         }
-        anim.SetBool(name:"IsInAir", value:!isGrounded);
-        anim.SetBool(name:"IsWalking", value: movee != 0);
+        anim.SetBool(name: "IsInAir", value:!isGrounded);
+        anim.SetBool(name: "Falling", value:!isGrounded && rb.velocity.y < 0);
+        anim.SetBool(name: "IsWalking", value: movee != 0);
     }
 }
