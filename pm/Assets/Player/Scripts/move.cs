@@ -22,7 +22,7 @@ public class move : MonoBehaviour
     }
     void flip()
     {
-        if (rb.velocity.x < -0.01f) transform.localScale = new Vector3(-1, 1, 1);
-        if (rb.velocity.x > 0.01f) transform.localScale = new Vector3(1, 1, 1);
+        if (rb.velocity.x < -0.01f) transform.localScale = new Vector3(-0.5f, 0.5f, 0.5f);
+        if (rb.velocity.x > 0.01f) transform.localScale = new Vector3(0.5f, 0.5f, 0.5f);
     }
 }
