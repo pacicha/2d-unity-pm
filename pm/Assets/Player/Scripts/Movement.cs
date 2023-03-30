@@ -45,6 +45,6 @@ public class Movement : MonoBehaviour
         }
         anim.SetBool(name: "IsInAir", value:!isGrounded);
         anim.SetBool(name: "Falling", value:!isGrounded && rb.velocity.y < 0);
-        anim.SetBool(name: "IsWalking", value: movee != 0);
+        anim.SetBool(name: "IsWalking", value:isGrounded && movee != 0);
     }
 }
