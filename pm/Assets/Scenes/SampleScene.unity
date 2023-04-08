@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 52717179}
   - component: {fileID: 52717178}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: cactus2 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -222,7 +222,7 @@ GameObject:
   m_Component:
   - component: {fileID: 104167774}
   - component: {fileID: 104167773}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: cactus3 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -306,7 +306,7 @@ GameObject:
   m_Component:
   - component: {fileID: 147125007}
   - component: {fileID: 147125008}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: deadtree1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -571,7 +571,7 @@ GameObject:
   m_Component:
   - component: {fileID: 241159061}
   - component: {fileID: 241159060}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: cactus1 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -992,7 +992,7 @@ GameObject:
   m_Component:
   - component: {fileID: 305794200}
   - component: {fileID: 305794199}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: cactus1 1 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1076,7 +1076,7 @@ GameObject:
   m_Component:
   - component: {fileID: 333582108}
   - component: {fileID: 333582109}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: deadtree2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1802,7 +1802,7 @@ GameObject:
   m_Component:
   - component: {fileID: 605679387}
   - component: {fileID: 605679386}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: cactus1 1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1983,7 +1983,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 674118311}
-  m_LocalRotation: {x: -0, y: -0, z: 0.09618839, w: 0.9953631}
+  m_LocalRotation: {x: -0, y: -0, z: 0.096189745, w: 0.995363}
   m_LocalPosition: {x: 0.969, y: 0.011, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -2280,7 +2280,7 @@ GameObject:
   m_Component:
   - component: {fileID: 765108214}
   - component: {fileID: 765108213}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: cactus2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2377,7 +2377,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 814017041}
-  m_LocalRotation: {x: -0, y: -0, z: 0.10346194, w: 0.99463344}
+  m_LocalRotation: {x: -0, y: -0, z: 0.10346197, w: 0.9946335}
   m_LocalPosition: {x: 0.97, y: 0.025, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -2717,7 +2717,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 878472603}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: cactuses
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2916,7 +2916,6 @@ Transform:
   - {fileID: 2081525566}
   - {fileID: 459820440}
   - {fileID: 1769339655}
-  - {fileID: 1797063449}
   m_Father: {fileID: 1850606874}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3364,7 +3363,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1116179676}
   - component: {fileID: 1116179677}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: deadtree2 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3448,7 +3447,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1143575541}
   - component: {fileID: 1143575540}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: cactus3 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3628,7 +3627,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1245263974}
   - component: {fileID: 1245263973}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: cactus3 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3795,8 +3794,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 157104041
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -4136,7 +4135,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1474901891}
-  m_LocalRotation: {x: -0, y: -0, z: -0.24593474, w: 0.9692864}
+  m_LocalRotation: {x: -0, y: -0, z: -0.24593475, w: 0.9692864}
   m_LocalPosition: {x: 0.494, y: -0.026, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -4154,7 +4153,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1509276578}
   - component: {fileID: 1509276577}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: cactus1 1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4241,8 +4240,16 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: -9156867838365188483, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -9156867838365188483, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_SortingOrder
       value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: -9156867838365188483, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 157104041
       objectReference: {fileID: 0}
     - target: {fileID: -8653719598885068355, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_Name
@@ -4258,7 +4265,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -7561113526181806574, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.13803943
+      value: 0.13804102
       objectReference: {fileID: 0}
     - target: {fileID: -7561113526181806574, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalRotation.y
@@ -4266,7 +4273,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -7561113526181806574, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.9904268
+      value: -0.99042654
       objectReference: {fileID: 0}
     - target: {fileID: -7552582706839291426, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_RootOrder
@@ -4290,7 +4297,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -7552582706839291426, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.72
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -7552582706839291426, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4349,20 +4356,36 @@ PrefabInstance:
       value: -1.337
       objectReference: {fileID: 0}
     - target: {fileID: -7143818262520823776, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -7143818262520823776, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_SortingOrder
       value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: -7143818262520823776, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 157104041
       objectReference: {fileID: 0}
     - target: {fileID: -6900818959896083359, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_Name
       value: LArm
       objectReference: {fileID: 0}
     - target: {fileID: -4691381383639723871, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -4691381383639723871, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_SortingOrder
       value: 6
       objectReference: {fileID: 0}
+    - target: {fileID: -4691381383639723871, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 157104041
+      objectReference: {fileID: 0}
     - target: {fileID: -2100433674345319598, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.036083512
+      value: -0.036083516
       objectReference: {fileID: 0}
     - target: {fileID: -2100433674345319598, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalRotation.x
@@ -4426,7 +4449,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -188458474966055407, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.999918
+      value: 0.9999179
       objectReference: {fileID: 0}
     - target: {fileID: -188458474966055407, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalRotation.y
@@ -4434,7 +4457,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -188458474966055407, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.012812583
+      value: -0.012812597
       objectReference: {fileID: 0}
     - target: {fileID: -188458474966055407, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -4465,12 +4488,20 @@ PrefabInstance:
       value: Body
       objectReference: {fileID: 0}
     - target: {fileID: 683650805199822136, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 683650805199822136, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_SortingOrder
       value: 7
       objectReference: {fileID: 0}
+    - target: {fileID: 683650805199822136, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 157104041
+      objectReference: {fileID: 0}
     - target: {fileID: 2015287661806188099, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.9838303
+      value: 0.9838297
       objectReference: {fileID: 0}
     - target: {fileID: 2015287661806188099, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalRotation.x
@@ -4482,7 +4513,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2015287661806188099, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.17910354
+      value: -0.17910646
       objectReference: {fileID: 0}
     - target: {fileID: 2015287661806188099, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -4538,7 +4569,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2471920254983572574, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.016765682
+      value: -0.016765784
       objectReference: {fileID: 0}
     - target: {fileID: 4257508509235537429, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4569,16 +4600,32 @@ PrefabInstance:
       value: 89.083
       objectReference: {fileID: 0}
     - target: {fileID: 5638863962959275187, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638863962959275187, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_SortingOrder
       value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 5638863962959275187, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 157104041
+      objectReference: {fileID: 0}
+    - target: {fileID: 7222661070148608283, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7222661070148608283, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_SortingOrder
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 7222661070148608283, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 157104041
+      objectReference: {fileID: 0}
     - target: {fileID: 7905440446968883676, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.2810805
+      value: 0.28108063
       objectReference: {fileID: 0}
     - target: {fileID: 7905440446968883676, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalRotation.y
@@ -4586,7 +4633,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7905440446968883676, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.95968425
+      value: -0.9596842
       objectReference: {fileID: 0}
     - target: {fileID: 7905440446968883676, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -4826,7 +4873,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1736257113}
   - component: {fileID: 1736257112}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: cactus3 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5104,7 +5151,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1752005141}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: deadtrees
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5359,117 +5406,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -188458474966055407, guid: 87b6fdc4a264dbf4fa0ef0603e497a5b, type: 3}
   m_PrefabInstance: {fileID: 1589877353}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1797063448
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1797063449}
-  - component: {fileID: 1797063451}
-  - component: {fileID: 1797063450}
-  m_Layer: 6
-  m_Name: ground1 (19)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1797063449
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1797063448}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 41.120003, y: -4.134042, z: -0.1069952}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 972481191}
-  m_RootOrder: 19
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &1797063450
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1797063448}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.014398336, y: -1.022264}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 8, y: 8}
-    newSize: {x: 8, y: 8}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 3.536592, y: 1.0601206}
-  m_EdgeRadius: 0
---- !u!212 &1797063451
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1797063448}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 9e51afac87fbd354eab7e2d7a901e7e6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 8, y: 8}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
 --- !u!1 &1804225580
 GameObject:
   m_ObjectHideFlags: 0
@@ -5480,7 +5416,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1804225582}
   - component: {fileID: 1804225581}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: cactus1 1 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5595,7 +5531,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1841250214}
   - component: {fileID: 1841250213}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: cactus3 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5683,7 +5619,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1850606874}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: World
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5723,7 +5659,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1876288079}
   - component: {fileID: 1876288080}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: deadtree1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5908,7 +5844,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2000920498}
   - component: {fileID: 2000920497}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: cactus3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5992,7 +5928,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2016918729}
   - component: {fileID: 2016918730}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: deadtree1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6141,7 +6077,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2042763595}
   - component: {fileID: 2042763594}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: cactus2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6225,7 +6161,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2047039812}
   - component: {fileID: 2047039813}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: deadtree2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6569,7 +6505,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2113624910}
   - component: {fileID: 2113624909}
-  m_Layer: 7
+  m_Layer: 8
   m_Name: cactus3 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
